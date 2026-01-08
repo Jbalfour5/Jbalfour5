@@ -6,6 +6,7 @@ I enjoy building projects and games that focus on practical systems, usability, 
 ## 🔧 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,react,tailwind,html,css,godot,git,github,figma,firebase,mongodb" />
   </a>
 </p>
+
