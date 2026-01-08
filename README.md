@@ -10,25 +10,17 @@ I enjoy building projects and games that focus on practical systems, usability, 
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub & Dev Metrics
 <p align="center">
-  <!-- GitHub contribution stats -->
-  <a href="https://github.com/jbalfour5">
-    <img src="https://github-readme-stats.vercel.app/api?username=jbalfour5&show_icons=true&theme=radical" />
-  </a>
+  <!-- Total Public Repos -->
+  ![Repos](https://img.shields.io/github/repos/jbalfour5?color=blue&label=Public%20Repos&style=for-the-badge)
 
-  <!-- Top languages -->
-  <a href="https://github.com/jbalfour5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbalfour5&layout=compact&theme=radical" />
-  </a>
+  <!-- Followers -->
+  ![Followers](https://img.shields.io/github/followers/jbalfour5?label=Followers&style=for-the-badge&color=green)
 
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbalfour5&theme=radical" />
-  </a>
-</p>
+  <!-- Profile Views -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=jbalfour5&style=for-the-badge&color=orange)
 
-<!-- Optional profile views -->
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=jbalfour5)
+  <!-- Last Commit to any repo -->
+  ![Last Commit](https://img.shields.io/github/last-commit/jbalfour5/REPLACE_WITH_REPO?style=for-the-badge&color=yellow)
 </p>
