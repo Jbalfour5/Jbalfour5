@@ -13,7 +13,7 @@ I enjoy building projects and games that focus on practical systems, usability, 
 ## 📊 GitHub & Dev Metrics
 <div align="center">
 
-![Public Repos](https://img.shields.io/github/repos/jbalfour5?style=for-the-badge&color=blue&label=Public%20Repos)
+![Public Repos](https://img.shields.io/github/public-repo-count/jbalfour5?style=for-the-badge&color=blue)
 ![Followers](https://img.shields.io/github/followers/jbalfour5?style=for-the-badge&color=green)
 ![Profile Views](https://komarev.com/ghpvc/?username=jbalfour5&style=for-the-badge&color=orange)
 
