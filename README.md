@@ -12,6 +12,7 @@ I enjoy building projects and games that focus on practical systems, usability, 
 
 ## 📊 GitHub & Dev Metrics
 <div align="center">
+  
 ![Collab](https://img.shields.io/badge/Collab-Open-green?style=for-the-badge&logo=github)
 ![Available](https://img.shields.io/badge/Available-Yes-brightgreen?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/jbalfour5?style=for-the-badge&color=green&logo=github)
