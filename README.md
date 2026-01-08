@@ -20,7 +20,4 @@ I enjoy building projects and games that focus on practical systems, usability, 
 
   <!-- Profile Views -->
   ![Profile Views](https://komarev.com/ghpvc/?username=jbalfour5&style=for-the-badge&color=orange)
-
-  <!-- Last Commit to any repo -->
-  ![Last Commit](https://img.shields.io/github/last-commit/jbalfour5/REPLACE_WITH_REPO?style=for-the-badge&color=yellow)
 </p>
