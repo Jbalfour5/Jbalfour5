@@ -1,9 +1,9 @@
 <p align="center">
-  <span style="font-size:60px;"><b>Valley Balfour</b></span>
+  <span style="font-size:240px;"><b>Valley Balfour</b></span>
 </p>
 
 <p align="center">
-  <em>Computer Systems Technology student · Java, C/C++ · Game & software systems</em>
+  <b>Computer Systems Technology student · Java, C/C++ · Game & software systems</b>
 </p>
 Computer Systems Technology student at BCIT focused on building game and software systems with a strong foundation in programming fundamentals. I enjoy building projects and games that focus on practical systems, usability, and clean design. 
 
