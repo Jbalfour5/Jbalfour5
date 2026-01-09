@@ -22,3 +22,11 @@ Computer Systems Technology student at BCIT focused on building game and softwar
 ![Followers](https://img.shields.io/github/followers/jbalfour5?&color=green&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=jbalfour5&color=orange)
 </div>
+
+## 📫 Contact Me
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valleybalfour)
+ 
+[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpvbal4@gmail.com)
+</div>
