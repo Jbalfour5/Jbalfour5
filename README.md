@@ -1,6 +1,5 @@
-# Hey There! 👋
-
-**I'm Valley Balfour** — a Computer Systems Technology student at BCIT focused on building game and software systems with a strong foundation in programming fundamentals.  
+# Valley Balfour
+Computer Systems Technology student at BCIT focused on building game and software systems with a strong foundation in programming fundamentals.  
 I enjoy building projects and games that focus on practical systems, usability, and clean design. 
 
 ## 🔧 Tech Stack
