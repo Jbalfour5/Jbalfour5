@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:240px;"><b>Valley Balfour</b></span>
+ <h1>Valley Balfour</h1>
 </p>
 
 <p align="center">
