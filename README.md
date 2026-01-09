@@ -1,6 +1,6 @@
-<p align="center">
- <h1>Valley Balfour</h1>
-</p>
+<h1 align="center">
+ <b>Valley Balfour</b>
+</h1>
 
 <p align="center">
   <b>Computer Systems Technology student · Java, C/C++ · Game & software systems</b>
