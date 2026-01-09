@@ -1,4 +1,6 @@
-# Valley Balfour
+<p align="center">
+Valley Balfour
+</p>
 Computer Systems Technology student at BCIT focused on building game and software systems with a strong foundation in programming fundamentals. I enjoy building projects and games that focus on practical systems, usability, and clean design. 
 
 ## 🔧 Tech Stack
