@@ -3,9 +3,10 @@
 </h1>
 
 <p align="center">
-  <b>Computer Systems Technology student · Java, C/C++ · Game & software systems</b>
+  <b>Computer Systems Technology @ BCIT · Systems & Game Programming · Java, C/C++</b>
 </p>
-Computer Systems Technology student at BCIT focused on building game and software systems with a strong foundation in programming fundamentals. I enjoy building projects and games that focus on practical systems, usability, and clean design. 
+Computer Systems Technology student at BCIT focused on systems and game programming. 
+I enjoy building practical projects—games, tools, and software systems—with an emphasis on clean architecture, usability, and performance.
 
 ## 🔧 Tech Stack
 <p align="center">
@@ -27,7 +28,7 @@ Computer Systems Technology student at BCIT focused on building game and softwar
 <div align="center">
 
 
-
+<p>💬 Open to internships, game projects, and systems-focused collaborations.</p>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?&logo=linkedin&logoColor=white)](https://linkedin.com/in/valleybalfour)
 [![Email](https://img.shields.io/badge/Email-Send-red?&logo=gmail&logoColor=white)](mailto:jpvbal4@gmail.com)
